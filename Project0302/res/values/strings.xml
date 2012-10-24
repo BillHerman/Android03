@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Project0302</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_project0302">Project0302</string>
+	<string name="process">Process</string>
+	
+</resources>

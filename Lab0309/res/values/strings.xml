@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Lab0309</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_lab0309">Lab0309</string>
+    <string name="button0">View website</string>
+    <string name="button1">Start dialer</string>
+    <string name="button2">View contact</string>
+
+</resources>
